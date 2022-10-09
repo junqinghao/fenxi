@@ -1,0 +1,18 @@
+{
+  "name": "httpclient-example",
+  "dependencies": {
+    "await-stream-ready": "^1.0.1",
+    "egg": "^1.10.1",
+    "formstream": "^1.1.0",
+    "stream-wormhole": "^1.1.0",
+    "zl-excel": "^2.0.3"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.3.5"
+  },
+  "scripts": {
+    "start": "egg-bin dev",
+    "dev": "egg-bin dev"
+  },
+  "private": true
+}
