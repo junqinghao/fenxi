@@ -8,7 +8,7 @@
     "zl-excel": "^2.0.3"
   },
   "devDependencies": {
-    "egg-bin": "^4.3.5"
+    "egg-bin": "^4.20.0"
   },
   "scripts": {
     "start": "egg-bin dev",
